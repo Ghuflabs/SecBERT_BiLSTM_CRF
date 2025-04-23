@@ -1,0 +1,21 @@
+Word,True Label,Predicted Label
+[CLS],[CLS],[CLS]
+new,O,O
+or,O,O
+##lean,X,B-HackOrg
+##s,X,X
+celebrate,O,O
+##s,X,X
+mother,O,B-HackOrg
+',X,X
+s,X,X
+day,O,O
+with,O,O
+a,O,O
+grand,O,O
+para,O,O
+##de,X,X
+every,O,O
+year,O,O
+.,X,O
+[SEP],[SEP],[SEP]
